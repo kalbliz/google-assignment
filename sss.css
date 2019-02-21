@@ -1,0 +1,18 @@
+body{
+    background-color: greenyellow;
+}
+input{
+    width:400px;
+    height: 30px;
+    border-radius: 10px;
+}
+button{
+    margin-top: 10px;
+}
+a{
+    color: white;
+}
+#wrapper{
+    width: 400px;
+    margin: 200 auto 0 auto;
+}
